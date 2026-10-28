@@ -14,6 +14,7 @@ Research notes from a reverse-engineering study of an Android Unity (IL2CPP) gam
 | `reports/bypass_history/` | Experiment logs: dynamic-debugging attempts, probing history, a GKI / CFI kernel-module crash analysis |
 | `reports/kernel_engine/` | Architecture notes for a kernel-side memory-access backend, a protocol spec, a QEMU minimal-rootfs test workflow |
 | `reports/*.md` | Strategy and brainstorming notes |
+| `notes/` | General engine notes not tied to any game (UE4 reflection) |
 | `images/` | Screenshot of the module environment |
 
-The generic, reusable parts are the GKI analysis and the QEMU workflow.
+The generic, reusable parts are the GKI analysis, the QEMU workflow and `notes/ue4-reflection.md`.
