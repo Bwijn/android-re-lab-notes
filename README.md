@@ -2,7 +2,7 @@
 
 Research notes from a reverse-engineering study of an Android Unity (IL2CPP) game and its anti-cheat, written in February 2026.
 
-- **Notes only. No source code, binaries, offsets tables or tooling are included.**
+- **Notes only.** Source code, binaries, memory dumps, version-specific offsets and structures, in-game screenshots and tooling are intentionally not published and are kept private.
 - The notes describe one game version of that time. The game and its protection have since changed, so treat everything here as historical.
 - Language: mostly Chinese, some English. Several files are exported working conversations and were only lightly cleaned.
 - Written out of curiosity, studying how an existing public project worked. Not maintained.
